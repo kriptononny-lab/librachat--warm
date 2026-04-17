@@ -29,13 +29,13 @@ export function CtaSection() {
         <div style={{ display: "flex", gap: "12px", justifyContent: "center", flexWrap: "wrap" }}>
           <Link href="https://librachat.kz/auth">
             <button style={{
-              background: "linear-gradient(135deg,#C9893E,#D4A574,#F5C97A)", border: "none", color: "#fff",
+              background: "linear-gradient(135deg,#C9893E,#D4A574,#F5C97A)", border: "none", color: "#1C1410",
               borderRadius: "999px", padding: "14px 36px",
               fontSize: "14px", fontWeight: 700, cursor: "pointer",
               display: "flex", alignItems: "center", gap: "8px",
               fontFamily: "inherit", boxShadow: "0 4px 20px rgba(212,165,116,0.28)",
             }}>
-              <Zap size={16} /> Начать бесплатно
+              Начать бесплатно
             </button>
           </Link>
           <Link href="/contact">

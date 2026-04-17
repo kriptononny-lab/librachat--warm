@@ -83,7 +83,7 @@ export function StepsSection() {
         {/* CTA кнопка */}
         <Link href="https://librachat.kz/auth">
           <button style={{
-            background: "linear-gradient(135deg,#C9893E,#D4A574,#F5C97A)", border: "none", color: "#fff",
+            background: "linear-gradient(135deg,#C9893E,#D4A574,#F5C97A)", border: "none", color: "#1C1410",
             borderRadius: "999px", padding: "14px 36px",
             fontSize: "15px", fontWeight: 700, cursor: "pointer",
             display: "inline-flex", alignItems: "center", gap: "8px",
