@@ -310,7 +310,7 @@ button, a[class*="rounded-full"], a[class*="rounded-"] {
 /* Кнопка primary — оранжево-жёлтый градиент */
 .btn-primary-gold {
   background: linear-gradient(135deg,#C9893E,#D4A574,#F5C97A);
-  color: #fff !important;
+  color: #1C1410 !important;
   box-shadow: 0 4px 20px rgba(212,165,116,0.28);
   transition: opacity 150ms ease;
 }
