@@ -263,7 +263,7 @@ function MobileMenu({ open, onClose }: { open: boolean; onClose: () => void }) {
           <Link href="https://librachat.kz/auth" style={{
             display:"flex", alignItems:"center", justifyContent:"center",
             padding:"13px", borderRadius:"999px", fontSize:"15px", fontWeight:700,
-            color:"#000", textDecoration:"none",
+            color:"#1C1410", textDecoration:"none",
             background:"linear-gradient(135deg,#C9893E,#D4A574,#F5C97A)", boxShadow:"0 4px 16px rgba(212,165,116,0.30)",
           }}>Начать бесплатно</Link>
         </div>
